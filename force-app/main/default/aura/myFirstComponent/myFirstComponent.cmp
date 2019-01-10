@@ -1,0 +1,4 @@
+<aura:component>
+    <h1>Hello SalesforceDX</h1>
+    <h1>Hello SalesforceDX from developer console</h1>
+</aura:component>

@@ -1,0 +1,230 @@
+[
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547121799211,
+            "changeTime": 1547121799211,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547121799211,
+            "changeTime": 1547121799211,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547121799211,
+            "changeTime": 1547121799211,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547123511164,
+            "changeTime": 1547123511164,
+            "contentHash": "98d3432e6d8efaa527b6ca2a54bd27e08dfe7a47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547123511175,
+            "changeTime": 1547123511175,
+            "contentHash": "dbaaee35049c001527ef8c77dc1f3ce7586126c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.auradoc",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1547123511174,
+            "changeTime": 1547123511174,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1547125387218,
+            "changeTime": 1547125387218,
+            "contentHash": "56cb4ee5d4617a874f3aae7243e69b3c98e05a09"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1547125387201,
+            "changeTime": 1547125387201,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1547125387220,
+            "changeTime": 1547125387220,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.design",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1547123511175,
+            "changeTime": 1547123511175,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.svg",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1547123511172,
+            "changeTime": 1547123511172,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1547125387216,
+            "changeTime": 1547125387216,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1547125387227,
+            "changeTime": 1547125387227,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1547125387210,
+            "changeTime": 1547125387210,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547121832138,
+            "changeTime": 1547121832138,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547123511976,
+            "changeTime": 1547123511976,
+            "contentHash": "5537f8693b708cca93f078b1039a865e8371cc16",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
